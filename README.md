@@ -1,6 +1,8 @@
-[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)
-
 # Codebase to Course with Codex
+
+[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)
+Forked from [zarazhangrui/my-podcast-feed](https://github.com/zarazhangrui/codebase-to-course) by [@zarazhangrui](https://github.com/zarazhangrui).
+
 
 A Codex skill that turns any codebase into a beautiful, interactive single-page HTML course.
 
