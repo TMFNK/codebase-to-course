@@ -1,3 +1,5 @@
+[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)
+
 # Codebase to Course with Codex
 
 A Codex skill that turns any codebase into a beautiful, interactive single-page HTML course.
